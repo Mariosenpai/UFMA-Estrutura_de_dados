@@ -1,0 +1,3 @@
+fazer um texto descrevendo como faz no seu ambiente de desenvolvimento um programa 
+executavel ser gerado a partir de mais de um arquivo fonte e como diz quais as bibliotecas 
+que seu programa usa

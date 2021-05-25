@@ -1,0 +1,8 @@
+crie um programa .c(na nossa explicaçao usarei um arquivo chamado main.c)
+ele vai ser o arquivo principal do programa 
+crie outro arquivo .c(chamado do que voce quiser chamarei ele de biblioteca.c)
+depois dentro do seu arquivo main.c use o "#include" e dentro do "<>" bote
+o diretorio completo de onde está o arquivo que voce deseja pega as funçoes
+exemplo : #include <C:\Users\Mario\Documents\UFMA\2021.1\Estutura de dados\Atividades\Atividade 01\biblioteca.c>
+e voce podera usar todas as funçoes que voce criou dentro desse arquivo e criar um executavel
+apartir da main com eles inclusos.
